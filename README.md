@@ -1,5 +1,25 @@
 # Getting Started with Create React App
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unit tests][tests-shield]][tests-url]
+[![MIT License][license-shield]][license-url]
+
+[contributors-shield]: https://img.shields.io/github/contributors/tedalden/workflow-testing.svg?style=flat
+[contributors-url]: https://github.com/tedalden/workflow-testing/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tedalden/workflow-testing.svg?style=flat
+[forks-url]: https://github.com/tedalden/workflow-testing/network/members
+[stars-shield]: https://img.shields.io/github/stars/tedalden/workflow-testing.svg?style=flat
+[stars-url]: https://github.com/tedalden/workflow-testing/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tedalden/workflow-testing.svg?style=flat
+[issues-url]: https://github.com/tedalden/workflow-testing/issues
+[tests-shield]: https://img.shields.io/github/actions/workflow/status/TedAlden/workflow-testing/test.yml?style=flat
+[tests-url]: https://github.com/TedAlden/workflow-testing/actions/workflows/test.yml
+[license-shield]: https://img.shields.io/github/license/tedalden/workflow-testing.svg?style=flat
+[license-url]: https://github.com/tedalden/workflow-testing/blob/master/LICENSE.txt
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
