@@ -23,7 +23,7 @@ jobs:
 
       # install dependencies
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       # build the react app
       - name: Build
