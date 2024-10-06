@@ -17,7 +17,7 @@
 [issues-url]: https://github.com/tedalden/workflow-testing/issues
 [tests-shield]: https://img.shields.io/github/actions/workflow/status/TedAlden/workflow-testing/test.yml?style=flat
 [tests-url]: https://github.com/TedAlden/workflow-testing/actions/workflows/test.yml
-[license-shield]: https://img.shields.io/github/license/tedalden/workflow-testing.svg?style=flat
+[license-shield]: https://img.shields.io/github/license/tedalden/workflow-testing?style=flat
 [license-url]: https://github.com/tedalden/workflow-testing/blob/master/LICENSE.txt
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
