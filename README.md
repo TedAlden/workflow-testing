@@ -22,6 +22,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<a href="https://github.com/TedAlden/workflow-testing">Explore the docs</a>
+·
+<a href="https://portfolio.tedalden.dev/workflow-testing">View Demo</a>
+·
+<a href="https://github.com/TedAlden/workflow-testing/issues/new?assignees=&labels=bug&projects=&template=BUG-REPORT.yml&title=%F0%9F%90%9B+%5BBUG%5D+-+%3Ctitle%3E">Report Bug</a>
+·
+<a href="https://github.com/TedAlden/workflow-testing/issues/new?assignees=&labels=question&projects=&template=FEATURE-REQUEST.yml&title=%F0%9F%92%A1+%5BREQUEST%5D+-+%3Ctitle%3E">Request Feature</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
